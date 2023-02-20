@@ -1,0 +1,137 @@
+{
+  "101-bitcoin-what-is-it": {
+    "title": "Chapter 101 - Bitcoin: What is it?",
+    "questions": {
+      "whatIsBitcoin": {
+        "title": "So what exactly is Bitcoin?",
+        "illustration": "https://marvelapp.com/8ai4f0h/screen/68178610",
+        "image": ".gitbook/assets/image (2).png",
+        "question": "So what exactly is Bitcoin?",
+        "reward": 1,
+        "answers": {
+          "0": {
+            "answer": "Digital money",
+            "feedback": "Correct. You just earned 1 “sat”!",
+            "correct": true
+          },
+          "1": {
+            "answer": "A video game",
+            "feedback": "Incorrect, please try again.",
+            "correct": false
+          },
+          "2": {
+            "answer": "A new cartoon character",
+            "feedback": "Nope. At least not one that we know of!",
+            "correct": false
+          }
+        },
+        "text": "Bitcoin is digital money. It can be transferred instantly and securely between any two people in the world &#x2014; without the need for a bank or any other financial company in the middle.",
+        "type": "Text"
+      },
+      "sat": {
+        "title": "I just earned a “Sat\". What is that?",
+        "illustration": "https://marvelapp.com/8ai4f0h/screen/68178611",
+        "image": ".gitbook/assets/image (1).png",
+        "question": "I just earned a “Sat\". What is that?",
+        "reward": 2,
+        "answers": {
+          "0": {
+            "answer": "The smallest unit of Bitcoin",
+            "feedback": "Correct. You just earned another two sats!!",
+            "correct": true
+          },
+          "1": {
+            "answer": "A small satellite",
+            "feedback": "Maybe… but that is not the correct answer in this context 🙂",
+            "correct": false
+          },
+          "2": {
+            "answer": "A space cat 🐱🚀",
+            "feedback": "Ummm.... not quite",
+            "correct": false
+          }
+        },
+        "text": "One &#x201C;Sat&#x201D; is the smallest unit of a bitcoin. We all know that one US Dollar can be divided into 100 cents. Similarly, one Bitcoin can be divided into 100,000,000 sats. In fact, you do not need to own one whole bitcoin in order to use it. You can use bitcoin whether you have 20 sats, 3000 sats &#x2014; or 100,000,000 sats (which you now know is equal to one bitcoin).",
+        "type": "Text"
+      },
+      "whereBitcoinExist": {
+        "title": "Where do the bitcoins exist?",
+        "illustration": "https://marvelapp.com/8ai4f0h/screen/68178612",
+        "image": ".gitbook/assets/image (20).png",
+        "question": "Where do the bitcoins exist?",
+        "reward": 3,
+        "answers": {
+          "0": {
+            "answer": "On the Internet",
+            "feedback": "Correct. You just earned another 5 sats.",
+            "correct": true
+          },
+          "1": {
+            "answer": "On the moon",
+            "feedback": "Incorrect. Well… at least not yet ;)",
+            "correct": false
+          },
+          "2": {
+            "answer": "In a Federal bank account",
+            "feedback": "Wrong. Please try again.",
+            "correct": false
+          }
+        },
+        "text": "Bitcoin is a new form of money. It can be used by anyone, anytime -- anywhere in the world. It is not tied to a specific government or region (like US Dollars). There are also no paper bills, metal coins or plastic cards. Everything is 100% digital. Bitcoin is a network of computers running on the internet. Your bitcoin is easily managed with software on your smartphone or computer!",
+        "type": "Text"
+      },
+      "whoControlsBitcoin": {
+        "title": "Who controls Bitcoin?",
+        "illustration": "https://marvelapp.com/8ai4f0h/screen/68267697",
+        "image": ".gitbook/assets/image (21).png",
+        "question": "Who controls Bitcoin?",
+        "reward": 3,
+        "answers": {
+          "0": {
+            "answer": "A voluntary community of users around the world",
+            "feedback": "That is right. Bitcoin is made possible by people all around the world running bitcoin software on their computers and smartphones.",
+            "correct": true
+          },
+          "1": {
+            "answer": "Mr Burns from The Simpsons",
+            "feedback": "An amusing thought — but not correct!",
+            "correct": false
+          },
+          "2": {
+            "answer": "The government of France",
+            "feedback": "Wrong. There is no company nor government that controls Bitcoin.",
+            "correct": false
+          }
+        },
+        "text": "Bitcoin is not controlled by any person, company or government. It is run by the community of users -- people and companies all around the world -- voluntarily running bitcoin software on their computers and smartphones.",
+        "type": "Text"
+      },
+      "copyBitcoin": {
+        "title": "If Bitcoin is digital money, can’t someone just copy it — and create free money?",
+        "illustration": "https://marvelapp.com/8ai4f0h/screen/68276778",
+        "image": ".gitbook/assets/image (5).png",
+        "question": "If Bitcoin is digital money, can’t someone just copy it — and create free money?",
+        "reward": 3,
+        "answers": {
+          "0": {
+            "answer": "No — it is impossible to copy or duplicate the value of bitcoin",
+            "feedback": "That is absolutely correct!",
+            "correct": true
+          },
+          "1": {
+            "answer": "Yes, you can copy bitcoins just as easily as copying a digital photo",
+            "feedback": "You know that it is not true. Try again.",
+            "correct": false
+          },
+          "2": {
+            "answer": "Yes, but copying bitcoin requires very specialized computers",
+            "feedback": "Incorrect. There is no way for anyone to copy, or create a duplicate, of bitcoin.",
+            "correct": false
+          }
+        },
+        "text": "The value of a bitcoin can never be copied. This is the very reason why Bitcoin is such a powerful new invention!! Most digital files &#x2014; such as an iPhone photo, an MP3 song, or a Microsoft Word document &#x2014; can easily be duplicated and shared. The Bitcoin software uniquely prevents the duplication &#x2014; or &#x201C;double spending&#x201D; &#x2014; of digital money. We will share exactly how this works later on!",
+        "type": "Text"
+      }
+    }
+  }
+}
